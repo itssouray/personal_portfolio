@@ -124,7 +124,7 @@ export const education = [
     id: 0,
     img: "https://web-content-storage.s3.ap-south-1.amazonaws.com/agc1.jpg",
     school: "Amritsar college of Engineering and Technology",
-    date: "Aug 20210 - Jul 2024",
+    date: "Aug 2020 - Jul 2024",
   
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Amritsar college of Engineering and Technology, Punjab. I have completed 6 semesters. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
@@ -206,7 +206,7 @@ export const projects = [
       "https://web-content-storage.s3.ap-south-1.amazonaws.com/bus-management.png",
     tags: ["Python","Mysql","Tkinter","Management System"],
     category: "other",
-    github: "https://web-content-storage.s3.ap-south-1.amazonaws.com/bus-management.png",
+    github: "https://github.com/itssouray/Bus_management_system_python",
   },
   {
     id: 10,
