@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/itssouray",
-  resume:"https://drive.google.com/file/d/1IcASKSnSbOSJfRwD-FUH2g5HmiRXyTeL/view",
+  resume:"https://drive.google.com/file/d/1QGSgTSYpCi1F7JuMNzP5y8WL4I6Yjz-F/view?usp=drive_link",
    linkedin: "https://www.linkedin.com/in/sourav-gupta-70b83a20b/",
   twitter: "https://twitter.com/Thisissouray",
 };
