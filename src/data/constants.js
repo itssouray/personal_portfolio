@@ -171,7 +171,7 @@ export const projects = [
     description:
       "I've developed a cryptocurrency portfolio website using React, Material-UI (MUI), and API integration. This user-friendly platform allows you to effortlessly manage and track your cryptocurrency investments. Stay updated on your portfolio's performance, monitor real-time market data, and make informed decisions, all in one convenient place. Start managing your crypto investments with ease today!",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/Screenshot+(978).png",
+      "https://uideck.com/_next/image?url=https%3A%2F%2Fapi.uideck.com%2Fpublic%2Fimages%2Fcrypto-tailwind.jpg&w=3840&q=75",
     tags: ["React Js","MUI","Redux"],
     category: "web app",
     github: "https://github.com/itssouray/Cryptonian",
@@ -184,7 +184,7 @@ export const projects = [
     description:
       "This Car Rental Service Website is designed to provide a convenient platform for users to rent cars for various purposes. Whether it's for personal use, travel, or special occasions, our website offers a seamless experience for selecting and reserving the perfect car.",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/Screenshot+(979).png",
+      "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/8453673994736e8a8896e78327354b3232625d25",
     tags: [
       "React Js",
       "Redux",
@@ -206,7 +206,7 @@ export const projects = [
       "https://web-content-storage.s3.ap-south-1.amazonaws.com/bus-management.png",
     tags: ["Python","Mysql","Tkinter","Management System"],
     category: "other",
-    github: "https://github.com/itssouray/Bus_management_system_python",
+    github: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/71e62f186820453.657bfab11a8b4.png",
   },
   {
     id: 10,
@@ -218,7 +218,7 @@ export const projects = [
       "https://web-content-storage.s3.ap-south-1.amazonaws.com/artificial_network.jpg",
     tags: ["Machine Learning", "Python","Sklearn","matplotlib","tensorflow","Deep Learning"],
     category: "machine learning",
-    github: "https://github.com/itssouray/Aritificial-Neural-Network",
+    github: "https://static.vecteezy.com/system/resources/thumbnails/066/025/511/small_2x/neural-networks-technology-with-abstract-glowing-sphere-futuristic-blue-background-deep-learning-systems-artificial-intelligence-computing-and-modern-ui-design-for-innovation-and-data-processing-vector.jpg",
   },
   {
     id: 4,
@@ -227,7 +227,7 @@ export const projects = [
     description:
       "In this project, our objective is to predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one.",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/diabetes-prediction.jpg",
+      "https://s3-alpha.figma.com/hub/file/2165274232578121956/d7080569-a107-4781-bc6f-3cc503c14927-cover.png",
     tags: ["Machine Learning", "Python","Sklearn","matplotlib","tensorflow"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
@@ -239,7 +239,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a sidebar where users can see all the tasks and can create a new task. It has a search bar where users can search for a particular task.",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/to-do.jpg",
+      "https://s3-alpha.figma.com/hub/file/5500298110/0cbcfba2-1873-46db-903c-a5c9b2c7077e-cover.png",
     tags: ["React Js", "MongoDb", "AWS Auth", "Node JS"],
     category: "web app",
     github: "https://github.com/itssouray/todo-app-fullstack",
@@ -252,7 +252,7 @@ export const projects = [
     description:
       "Shortly is your go-to platform for swiftly converting long and unwieldy URLs into concise, user-friendly links. Utilizing a user-friendly web page powered by HTML and JavaScript, simply paste your lengthy URL, and Shortly will generate a shorter, more manageable link in seconds. This seamless transformation is made possible through our efficient API, streamlining link sharing on social media, emails, or anywhere else. Experience the convenience of Shortly and simplify your online link sharing today!",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/Screenshot+(980).png",
+      "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/73f25fdd9225a6ce673c47900bdfa36af275169e",
     tags: ["Html", "API", "Javascript", "Css"],
     category: "web app",
     github: "https://github.com/itssouray/itssouray.github.io-repo4",
@@ -265,7 +265,7 @@ export const projects = [
     description:
       "This heart disease prediction machine learning model operates by analyzing vital health data, providing accurate predictions for potential heart conditions. It uses cutting-edge algorithms to assess risk factors and offers valuable insights into cardiovascular health.",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/heart.jpg",
+      "https://cdn.analyticsvidhya.com/wp-content/uploads/2022/02/Heart-Disease-Prediction-using-Machine-Learning.webp",
     tags: ["Machine Learning", "Python","Sklearn","matplotlib","tensorflow"],
     category: "machine learning",
     github: "https://github.com/itssouray/Heart_Disease_prediction",
@@ -277,7 +277,7 @@ export const projects = [
     description:
       "Prism Plus is a Visual Studio Code extension that enhances your coding experience with a beautiful and customizable color theme. It provides a vibrant and modern look for your code editor, making it visually appealing and easy to work with.",
     image:
-      "https://web-content-storage.s3.ap-south-1.amazonaws.com/vsEctension.png",
+      "https://i.ytimg.com/vi/k41weVf3xfg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBU0zOc-_Fz_VAwIFQohANFchWwdg",
     tags: ["Vscode","Extension","PrismPlus","Theme"],
     category: "other",
     github: "https://github.com/itssouray/PrismPlus",
